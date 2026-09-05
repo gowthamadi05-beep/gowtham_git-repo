@@ -1,0 +1,5 @@
+resource
+{
+    azurerm 'resource'
+    
+}
